@@ -22,22 +22,7 @@ Advisors:
 - Email: advisor emails <--- **FIXME**
 
 ## I.  Set up environment
-- Step 1: <--- **FIXME**
-
-```python
-conda env create -f environment.yml
-```
-
-- Step 2: <--- **FIXME**
-```
-
-```
-
-- Step 3: <--- **FIXME**
-
-```
-
-``` 
+Check [Commands](Commands.MD)
 
 ## II.  Set up your dataset
 
